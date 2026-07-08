@@ -1,0 +1,5 @@
+/claude-memories
+*.exe
+.env
+.ant/
+.ait/
